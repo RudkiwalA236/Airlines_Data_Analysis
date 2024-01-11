@@ -13,11 +13,8 @@ Python scripts for importing and cleaning diverse airline datasets. SQL queries 
 -   Exploratory Data Analysis (EDA):
 Utilizing Pandas, NumPy, and Matplotlib for in-depth EDA. SQL queries to aggregate and summarize data for insightful visualizations.
 
--   Customer Sentiment Analysis:
-Implementing Natural Language Processing (NLP) techniques on customer feedback. Extracting sentiments and trends from textual data.
-
 -   Route Optimization:
-Leveraging SQL for route optimization and efficiency analysis. Developing Python algorithms to enhance operational performance.
+Developing Python algorithms to enhance operational performance.
 
 *** Technologies Used:
 
