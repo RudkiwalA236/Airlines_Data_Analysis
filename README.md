@@ -1,5 +1,5 @@
 # Airlines_Data_Analysis
-### Python file and Airline Business Problem (Problem statement with objective and key analysis area) is uploaded!!
+### Python file and Airline Business Problem (Problem statement with objective and key analysis area) are uploaded!!
 Data analysed and visualised using Python.
 
 *** Overview:
